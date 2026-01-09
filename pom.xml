@@ -16,6 +16,7 @@
     <modules>
         <module>pixconsumidor</module>
         <module>pixprodutor</module>
+        <module>pixstream</module>
     </modules>
 
     <dependencyManagement>

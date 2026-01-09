@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/pixconsumidor/pom.xml" />
         <option value="$PROJECT_DIR$/pixprodutor/pom.xml" />
+        <option value="$PROJECT_DIR$/pixstream/pom.xml" />
       </list>
     </option>
   </component>
