@@ -5,3 +5,5 @@ spring:
     url: jdbc:postgresql://localhost:5432/aulakafka
     username: devuser
     password: dev1234
+server:
+  port: 8082

@@ -5,3 +5,5 @@ spring:
     password: dev1234
   application:
     name: pixconsumidor
+server:
+  port: 8083

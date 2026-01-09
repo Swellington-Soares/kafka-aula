@@ -11,10 +11,7 @@ import org.springframework.stereotype.Service;
 @RequiredArgsConstructor
 public class PixService {
 
-    
     private final PixRepository pixRepository;
-
-    
     private final KafkaTemplate<String, PixDTO>  kafkaTemplate;
 
     public PixDTO salvarPix(PixDTO pixDTO) {
