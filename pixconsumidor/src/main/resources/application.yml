@@ -5,5 +5,9 @@ spring:
     password: dev1234
   application:
     name: pixconsumidor
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
 server:
   port: 8083
