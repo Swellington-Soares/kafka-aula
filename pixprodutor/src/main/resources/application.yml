@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: pixprodutor
+  datasource:
+    url: jdbc:postgresql://localhost:5432/aulakafka
+    username: devuser
+    password: dev1234
